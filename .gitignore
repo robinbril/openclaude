@@ -1,0 +1,5 @@
+.env
+.notify-state.json
+.last-digest
+node_modules/
+*.log
